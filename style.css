@@ -1,0 +1,26 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: grey;
+}
+
+#word {
+    font-size: 2rem;
+    margin: 20px;
+    letter-spacing: 1rem;
+}
+
+#remainingGuesses {
+    margin-top: 2rem;
+}
+
+input {
+    width: 200px;
+    font-size: 1.5rem;
+}
+
+.hidden {
+    display: none;
+}
